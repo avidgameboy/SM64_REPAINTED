@@ -18,7 +18,7 @@
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
 Wow! You're smack in the\n\
-middle of the battlefield.\n\
+middle of the meat zone.\n\
 You'll find the Power\n\
 Stars that Bowser stole\n\
 inside the painting\n\
@@ -275,11 +275,7 @@ Shhh! Please walk\n\
 quietly in the hallway!"))
 
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
-Dear Mario:\n\
-Please come to the\n\
-castle. I've baked\n\
-a cake for you.\n\
-Yours truly--\n\
+COME TO BRAZIL!\n\
 Princess Toadstool"))
 
 DEFINE_DIALOG(DIALOG_021, 1, 5, 95, 200, _("\
